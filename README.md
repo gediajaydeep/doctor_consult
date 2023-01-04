@@ -5,10 +5,10 @@
 
 ##Screenshots
 
-![initial](https://i.ibb.co/4NpK6r7/Screenshot-1672837877.png =563x1218"initial")
+<img src="https://i.ibb.co/4NpK6r7/Screenshot-1672837877.png" width="112" height="244" />
 
-![doctor_details](https://i.ibb.co/hsVhqQh/Screenshot-1672837904.png =563x1218 "doctor_details")
+<img src="https://i.ibb.co/hsVhqQh/Screenshot-1672837904.png" width="112" height="244" />
 
-![doc_details](https://i.ibb.co/fFqJLCr/Screenshot-1672837871.png =563x1218 "doc_details")
+<img src="https://i.ibb.co/fFqJLCr/Screenshot-1672837871.png" width="112" height="244" />
 
-![chats](https://i.ibb.co/X7zTYNB/Screenshot-1672837882.png =563x1218 "chats")
+<img src="https://i.ibb.co/4NpK6r7/Screenshot-1672837877.png" width="112" height="244" />
